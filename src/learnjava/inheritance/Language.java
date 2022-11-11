@@ -1,4 +1,4 @@
-package inheritance;
+package learnjava.inheritance;
 
 /* EXTRA: - Build an array or ArrayList of several language objects and loop through them to call getInfo().
 - Add new methods that allow users to set a specific region, change the number of speakers,

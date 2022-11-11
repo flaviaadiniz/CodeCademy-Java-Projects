@@ -1,4 +1,4 @@
-package inheritance;
+package learnjava.inheritance;
 
 public class SinoTibetan extends Language {
 

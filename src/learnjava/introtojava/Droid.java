@@ -1,4 +1,4 @@
-package introtojava;
+package learnjava.introtojava;
 
 public class Droid {
 

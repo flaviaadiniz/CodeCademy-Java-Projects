@@ -1,4 +1,4 @@
-package introtojava;
+package learnjava.introtojava;
 
 //creates a basic calculator program
 public class Calculator {
